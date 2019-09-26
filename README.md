@@ -1,4 +1,4 @@
-<img src="https://impulso.network/assets/images/impulsonetwork-logo.svg" style="width: 350px">
+![Atena Impulso](https://s3-sa-east-1.amazonaws.com/impulso-fotos-email/logo-impulso.png "Atena Impulso")
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a837b0567bef4a1ca60fe9d9921b65f1)](https://www.codacy.com/app/impulsonetwork/atena-frontend?utm_source=github.com&utm_medium=referral&utm_content=universoimpulso/atena-frontend&utm_campaign=Badge_Grade)
 [![Build Status](https://dev.azure.com/universoimpulso/Atena/_apis/build/status/universoimpulso.atena-frontend?branchName=master)](https://dev.azure.com/universoimpulso/Atena/_build/latest?definitionId=5&branchName=master)
@@ -8,6 +8,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/efabad6f-deb0-4384-9a98-b55d878bfbcb/deploy-status)](https://app.netlify.com/sites/atena/deploys)
 
 ## Front - Atena v.0.2
+
+[Site Atena](https://atena.impulso.network)
 
 A Atena é uma iniciativa da Impulso Network em colaboração com vários Impulsers, com o objetivo de promover o engajamento e recompensar as atividades e esforços de cada pessoa na Impulso. Nele você poderá adquirir Pontos de Experiência (XP) através da execução de diversas atividades e com base nesses dois fatores os Impulsers receberão níveis e conquistas, reconhecendo o esforço despendido nas atividades.
 
